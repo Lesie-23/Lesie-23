@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Lesie-23
+- 👋 Hi, I’m Lesie
 
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently learning data analytics tools to upskill. 
 
 
