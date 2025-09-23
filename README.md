@@ -4,6 +4,6 @@
 
  Working on real world projects to gain hands on experience by using tools and techniques.
 
- 📬 Reach me:  www.linkedin.com/in/lesiefernandes
- | Email
+ 📬 Reach me:[LinkedIn] (www.linkedin.com/in/lesiefernandes)
+ | [Email] (lesie0223@gmail.com) 
 
