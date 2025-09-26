@@ -3,7 +3,7 @@
 
 
 ## 🔍 About Me
-I'm an aspiring Data Analyst, currently enhancing my skills in **Excel**, **Power BI**, and **MySQL**. Passionate about transforming raw data into actionable insights, I aim to bridge the gap between data and decision-making in businesses.
+I'm an aspiring Data Analyst, currently enhancing my skills in **Excel**, **Power BI**, **MySQL**, **Python**. Passionate about transforming raw data into actionable insights, I aim to bridge the gap between data and decision-making in businesses.
 
  Working on real world projects to gain hands on experience by using tools and techniques.
 
