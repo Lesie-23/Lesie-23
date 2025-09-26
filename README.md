@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Lesie Fernandes
+# 👋 Hi, I'm Lesie Fernandes                                                                                                   
+
+
 
 ## 🔍 About Me
 I'm an aspiring Data Analyst, currently enhancing my skills in **Excel**, **Power BI**, and **MySQL**. Passionate about transforming raw data into actionable insights, I aim to bridge the gap between data and decision-making in businesses.
@@ -15,4 +17,8 @@ I'm an aspiring Data Analyst, currently enhancing my skills in **Excel**, **Powe
 
 ## 📬 Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesiefernandes)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) lesie0223@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lesie0223@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://codebasics.io/portfolio/Lesie-Fernandes)
+
+
+ ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=LesieFernandes.LesieFernandes)
