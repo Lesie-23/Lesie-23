@@ -1,3 +1,7 @@
+[![Typing SVG](https://jay-website-personal-65b76d6e8318.herokuapp.com?font=Fira+Code&size=15&pause=1000&random=false&width=435&lines=%F0%9F%92%A1+Committed+to+Continuous+Learning++;%F0%9F%93%8A+Focused+on+Turning+Data+into+Business+Insight)](https://git.io/typing-svg)
+
+
+
 # 👋 Hi, I'm Lesie Fernandes                                                                                                   
 
 
